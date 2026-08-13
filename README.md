@@ -21,8 +21,8 @@ This is a private repository used by two PhD students in Mechanics to collaborat
 - Mechanics-specific: FEniCS, Abaqus scripting (as applicable)
 
 ## 👥 Collaborators
-- [Your Name] – PhD in Mechanics
-- [Collaborator's Name] – PhD in Mechanics
+- [bœuf 1] – PhD student in Mechanics
+- [bœuf 2] – PhD student in Mechanics
 
 ## 📖 Usage
 This repository is for internal use only. Please do not share or distribute any content without permission.
