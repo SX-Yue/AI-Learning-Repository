@@ -27,8 +27,11 @@ This is a private repository used by two PhD students in Mechanics to collaborat
 - AI agent frameworks (future work): AutoGen, LangChain, etc.
 
 ## 👥 Collaborators
-- [bœuf 1] – PhD student in Mechanics
-- [bœuf 2] – PhD student in Mechanics
+
+| Name | Role | Education / Background |
+| :--- | :--- | :--- |
+| **[bœuf 1]** | PhD student in Mechanics | - |
+| **[bœuf 2 - Yjunn Chan]** | PhD student in Fluid Mechanics | B.S. in Theoretical and Applied Mechanics + Aerospace Engineering, Tsinghua University |
 
 ## 📖 Usage
 This repository is for internal use only. Please do not share or distribute any content without permission.
