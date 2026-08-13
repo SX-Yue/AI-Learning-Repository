@@ -9,6 +9,11 @@ This is a private repository used by two PhD students in Mechanics to collaborat
 - **Mechanics Application**: Experiment with AI/ML techniques for problems in **solid mechanics, structural analysis, and computational mechanics**.
 - **Project Reference**: Maintain reusable code, notes, and references for our individual and joint research projects.
 
+## 🛤️ Learning Roadmap
+- **Starting point**: Basic API usage and fundamental AI/ML concepts.
+- **Intermediate**: Developing custom models and integrating AI into mechanics workflows (e.g., surrogate modeling, data-driven simulation, physics-informed neural networks (PINNs)).
+- **Ultimate goal**: Building and deploying **AI agents** to assist and accelerate our research in mechanics – from literature review and code generation to automated simulation and data analysis.
+
 ## 📚 What You'll Find Here
 - 📓 Jupyter Notebooks and scripts covering AI/ML fundamentals.
 - 🔬 Examples of applying AI to mechanics (e.g., surrogate modeling, data-driven simulation, physics-informed neural networks (PINNs)).
@@ -19,6 +24,7 @@ This is a private repository used by two PhD students in Mechanics to collaborat
 - Python, PyTorch, TensorFlow
 - Scientific computing: NumPy, SciPy, Matplotlib
 - Mechanics-specific: FEniCS, Abaqus scripting (as applicable)
+- AI agent frameworks (future work): AutoGen, LangChain, etc.
 
 ## 👥 Collaborators
 - [bœuf 1] – PhD student in Mechanics
