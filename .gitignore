@@ -49,6 +49,8 @@ Thumbs.db
 *.swp
 *.swo
 
+*.env
 
-
-literature_search_agent/
+# literature_search_agent/
+prompt.md
+literature_report.md
