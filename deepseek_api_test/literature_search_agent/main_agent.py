@@ -403,7 +403,7 @@ print(f"""
 {BOLD}{MAGENTA}⚙️  CONTROLS{RESET}
   🚪 exit        →  Quit the agent
   🧹 clear       →  Clear conversation history
-  ⏭️ s (skip)    →  At (y/n/s) prompts: deny the operation & return to You>
+  ⏭️ skip        →  At (y/n/s) prompts: deny the operation & return to You>
 
 {BOLD}{DARK_GRAY}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━{RESET}
 """)
