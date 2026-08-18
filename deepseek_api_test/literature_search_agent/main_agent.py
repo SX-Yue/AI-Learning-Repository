@@ -377,7 +377,7 @@ print(f"""
 {BOLD}{CYAN}📘 FILE OPERATIONS{RESET}
   📖 Read        →  "Read config.json"
   🔍 Replace     →  "Change v1.0 to v2.0 in README.md"  ⚠️ requires confirmation
-  ✍️  Write       →  "Create file hello.py"  ⚠️ requires confirmation
+  ✍️ Write       →  "Create file hello.py"  ⚠️ requires confirmation
   📂 List        →  "List files in src/"
 
 {BOLD}{CYAN}🚀 GIT OPERATIONS{RESET}
