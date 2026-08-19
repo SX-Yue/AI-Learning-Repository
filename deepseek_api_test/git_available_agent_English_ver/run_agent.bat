@@ -9,8 +9,8 @@ REM    to point to the correct PATH\TO\main_agent on your system.
 REM ===============================================================================
 
 REM Run the agent in the current directory where the .bat file is located
-"%~dp0.venv\Scripts\python.exe" "%~dp0main_agent.py" 
+REM "%~dp0.venv\Scripts\python.exe" "%~dp0main_agent.py" 
 
 REM Run the agent in another directory
-REM "D:\AI_Learn\AI-Learning-Repository\deepseek_api_test\git_available_agent_English_ver\.venv\Scripts\python.exe" ^
-REM "D:\AI_Learn\AI-Learning-Repository\deepseek_api_test\git_available_agent_English_ver\main_agent.py"
+ "D:\AI_Learn\AI-Learning-Repository\deepseek_api_test\git_available_agent_English_ver\.venv\Scripts\python.exe" ^
+ "D:\AI_Learn\AI-Learning-Repository\deepseek_api_test\git_available_agent_English_ver\main_agent.py"
