@@ -12,5 +12,5 @@ REM Run the agent in the current directory where the .bat file is located
 "%~dp0.venv\Scripts\python.exe" "%~dp0main_agent.py" 
 
 REM Run the agent in another directory
-REM "D:\AI_Learn\AI-Learning-Repository\deepseek_api_test\literature_search_agent\.venv\Scripts\python.exe" ^
-REM "D:\AI_Learn\AI-Learning-Repository\deepseek_api_test\literature_search_agent\main_agent.py"
+REM "D:\AI_Learn\AI-Learning-Repository\deepseek_api_test\literature_search_agent_ver2\.venv\Scripts\python.exe" ^
+REM "D:\AI_Learn\AI-Learning-Repository\deepseek_api_test\literature_search_agent_ver2\main_agent.py"
