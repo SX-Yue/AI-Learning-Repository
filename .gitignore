@@ -54,3 +54,6 @@ Thumbs.db
 # literature_search_agent/
 prompt.md
 literature_report.md
+
+# deepseek_api_test/iterature_search_agent_ver2/
+semantic_scholar_api/
